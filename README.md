@@ -12,25 +12,21 @@ Frontend development, performance optimization, technical SEO, UI updares to imp
 My focus has shifted, and I primarily work as a Shopify developer, creating and customizing e-commerce experiences for clients. Alongside this, I also worked with React.js and WordPress for various website projects.
 
 🎓 2022-sep-4 </br>
-Did an app Angular and TS for parsing a file that user will drop in UI. task was to display some certificate's data in the app UI and store it in local storage. 8 days to finish it, that was a hard one. result is a little buggy, but works. 
+Did a test web-app with Angular and TS for parsing a file that user will drop in UI. task was to display some certificate's data in the app UI and store it in local storage. 8 days to finish it, that was a hard one. result is a little buggy, but works. 
 
-🎓 30-aug-2022 </br>
+🎓 2022-aug-30 </br>
 Did a "currency convertor" with a free API for currency exchange rates. React.js
 
-🎓 23-aug-2022 </br>
+🎓 2022-aug-23 </br>
 I've started to learn the TypeScript & Tailwind. Base app for practicing will be: https://forseti93.github.io/time-manager-app/ </br>
 At the same time I look for a job, because of the test task has the highest priority, this app writing is paused often.
 
 ![image](https://user-images.githubusercontent.com/40038982/189281105-5d055cbd-0799-4601-b61f-231a62af96fb.png)
 
-15-aug-2022 </br>
+🎓 2022-aug-15 </br>
 I have started from the block "finished sites". On the screenshot below, all data is fetching via WPGraphQL from the local host with WordPress. React, Next.js, TypeScript were used in code too.
 
 ![image](https://user-images.githubusercontent.com/40038982/184608512-b8127c01-ae89-475b-a60e-70a0ddda901b.png)
-
-10-aug-2022 </br> 
-Now I'm designing and doing a good, scalable personal site. Stack to practice: Typescript, React, Redux, Next.JS. Bootstrap, BEM, SCSS, Git-cmd
-
 
 <hr>
 <b>Site for architector:</b> https://maxarch123.github.io/mkt-studio/
@@ -43,7 +39,7 @@ Contact form: library "emailJS". It works from client side. Mail will come on cu
 "Backend": single JS file + folder with projects named as project's id in JS file. Site owner already has added 2 projects. </br>
 
 <hr>
-I practiced React, animations:
+I practiced React.js, animations:
 https://forseti93.github.io/ <br>
 
 ![image](https://user-images.githubusercontent.com/40038982/182370119-12241e44-50b1-4fca-a243-eb5c1d0e2367.png)
