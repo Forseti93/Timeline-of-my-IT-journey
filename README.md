@@ -24,12 +24,12 @@ At the same time I look for a job, because of the test task has the highest prio
 ![image](https://user-images.githubusercontent.com/40038982/189281105-5d055cbd-0799-4601-b61f-231a62af96fb.png)
 
 🎓 2022-aug-15 </br>
-I have started from the block "finished sites". On the screenshot below, all data is fetching via WPGraphQL from the local host with WordPress. React, Next.js, TypeScript were used in code too.
+Next.js & WordPress CMS. Headless integration with GraphQL
 
 ![image](https://user-images.githubusercontent.com/40038982/184608512-b8127c01-ae89-475b-a60e-70a0ddda901b.png)
 
-<hr>
-<b>Site for architector:</b> https://maxarch123.github.io/mkt-studio/
+
+💲 website for architector: https://maxarch123.github.io/mkt-studio/
 
 ![image](https://user-images.githubusercontent.com/40038982/183278482-c5db966a-3742-42e6-be71-3d7998187ce9.png)
 
@@ -38,8 +38,8 @@ App did with React, HTML, SCSS. </br>
 Contact form: library "emailJS". It works from client side. Mail will come on customer's mail in view as it set in emailJS templates.</br>
 "Backend": single JS file + folder with projects named as project's id in JS file. Site owner already has added 2 projects. </br>
 
-<hr>
-I practiced React.js, animations:
+
+🎓 I practiced React.js, animations:
 https://forseti93.github.io/ <br>
 
 ![image](https://user-images.githubusercontent.com/40038982/182370119-12241e44-50b1-4fca-a243-eb5c1d0e2367.png)
