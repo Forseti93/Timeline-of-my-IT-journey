@@ -74,3 +74,8 @@ https://user-images.githubusercontent.com/40038982/149172450-24d6b58a-bbfa-421f-
 https://user-images.githubusercontent.com/40038982/149172466-8560cb5a-5192-4293-8789-f2362dc528a0.mp4
 
 https://user-images.githubusercontent.com/40038982/149172497-47ec7877-dab4-43b2-85fd-b39620594dc9.mp4
+
+<hr />
+<br />
+Above are some projects wich I've tried after 2021. <br />
+Before 2021 I was trying different IT topics, while was working a full-time job in marine industry: C# (for Windows apps and Unity games), C++ (for Arduino), VBA (scripts to automate office routine), Blender (3D renders), Kotlin (Adnroid development)
