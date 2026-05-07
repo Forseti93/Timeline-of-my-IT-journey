@@ -38,7 +38,7 @@ Contact form: library "emailJS".</br>
 
 
 🎓 I practiced React.js, animations:
-https://forseti93.github.io/ <br>
+[https://forseti93.github.io/ ](https://forseti93.github.io/first-portfolio-react/) <br>
 
 ![image](https://user-images.githubusercontent.com/40038982/182370119-12241e44-50b1-4fca-a243-eb5c1d0e2367.png)
 
