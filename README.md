@@ -2,13 +2,13 @@
 
 <hr />
 
-💲 <b>2025–Present | Shopify Developer (Contractor)</b><br />
+💲 <b>2025 - Present | Shopify Developer (Contractor)</b><br />
 Frontend development, performance optimization, technical SEO, and UI updates to improve CRO.
 
 🎓 <b>May 2026 | Started with Astro (React.js, Next.js, Vue, Angular)</b><br />
 20 hours in documentation and IDE (no AI), a few "Wow, Astro is powerful" moments, and here is the result: <a href="https://astro-learning.sergeylavrenov93.workers.dev/" target="_blank" rel="noopener noreferrer">astro-learning.sergeylavrenov93.workers.dev</a>
 
-💲 <b>2023–2025 | Windmill Digital</b><br />
+💲 <b>2023 - 2025 | Windmill Digital</b><br />
 My focus shifted primarily to Shopify development, creating and customizing e-commerce experiences for clients. Alongside this, I worked with React.js and WordPress for various website projects.
 
 🎓 <b>September 4, 2022</b><br />
