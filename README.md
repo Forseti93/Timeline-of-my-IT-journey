@@ -2,29 +2,26 @@
 
 <hr>
 
-2025-now | Shopify developer - contractor </br>
+💲 2025-now | Shopify developer - contractor </br>
 Frontend development, performance optimization, technical SEO, UI updares to improve CRO, etc.
 
-2026-may | Started with Astro (React.js, Next.js, Vue, Angular - tried before) </br>
+🎓 2026-may | Started with Astro (React.js, Next.js, Vue, Angular - tried before) </br>
 20 hours in docs and IDE, no AI, few "Wow, Astro is powerfull" and here is the result: https://astro-learning.sergeylavrenov93.workers.dev/
 
-2023-2025 Windmill Digital </br>
+💲 2023-2025 Windmill Digital </br>
 My focus has shifted, and I primarily work as a Shopify developer, creating and customizing e-commerce experiences for clients. Alongside this, I also worked with React.js and WordPress for various website projects.
 
-2022-sep-4 </br>
-Did a test task on Angular and TS for parsing a file that user will drop in UI. task was to display some certificate's data in the app UI and store it in local storage. 8 days to finish it, that was a hard one. result is a little buggy, but works. 
+🎓 2022-sep-4 </br>
+Did an app Angular and TS for parsing a file that user will drop in UI. task was to display some certificate's data in the app UI and store it in local storage. 8 days to finish it, that was a hard one. result is a little buggy, but works. 
 
-30-aug-2022 </br>
-Did a test task "currency convertor" with a free API for currency exchange rates. React.js
+🎓 30-aug-2022 </br>
+Did a "currency convertor" with a free API for currency exchange rates. React.js
 
-23-aug-2022 </br>
-I've started to learn the TypeScript + Tailwind separately. Base app for practicing will be: https://forseti93.github.io/time-manager-app/ </br>
+🎓 23-aug-2022 </br>
+I've started to learn the TypeScript & Tailwind. Base app for practicing will be: https://forseti93.github.io/time-manager-app/ </br>
 At the same time I look for a job, because of the test task has the highest priority, this app writing is paused often.
 
 ![image](https://user-images.githubusercontent.com/40038982/189281105-5d055cbd-0799-4601-b61f-231a62af96fb.png)
-
-16-aug-2022 </br>
-I've gotten a test task, that app was paused. 6 days to finish it. React, Fetch API (GET/POST) trained.
 
 15-aug-2022 </br>
 I have started from the block "finished sites". On the screenshot below, all data is fetching via WPGraphQL from the local host with WordPress. React, Next.js, TypeScript were used in code too.
