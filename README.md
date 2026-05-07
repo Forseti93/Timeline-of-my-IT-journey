@@ -1,23 +1,24 @@
 <b>Latest first:</b>
 
 <hr>
-2025-now | Shopify developer - contractor <br/>
-Frontend development, performance optimization, technical SEO, UI updares to improve CRO, etc.<br/><br/>
 
-2026-may | Started with Astro (React.js, Next.js, Vue, Angular - tried before)
+2025-now | Shopify developer - contractor </br>
+Frontend development, performance optimization, technical SEO, UI updares to improve CRO, etc.
+
+2026-may | Started with Astro (React.js, Next.js, Vue, Angular - tried before) </br>
 20 hours in docs and IDE, no AI, few "Wow, Astro is powerfull" and here is the result: https://astro-learning.sergeylavrenov93.workers.dev/
 
-2023-2025 Windmill Digital <br/>
-My focus has shifted, and I primarily work as a Shopify developer, creating and customizing e-commerce experiences for clients. Alongside this, I also worked with React.js and WordPress for various website projects.<br/><br/>
+2023-2025 Windmill Digital </br>
+My focus has shifted, and I primarily work as a Shopify developer, creating and customizing e-commerce experiences for clients. Alongside this, I also worked with React.js and WordPress for various website projects.
 
-4-sep-2022 <br/>
-Did a test task on Angular and TS for parsing a file that user will drop in UI. task was to display some certificate's data in the app UI and store it in local storage. 8 days to finish it, that was a hard one. result is a little buggy, but works. <br/><br/>
+2022-sep-4 </br>
+Did a test task on Angular and TS for parsing a file that user will drop in UI. task was to display some certificate's data in the app UI and store it in local storage. 8 days to finish it, that was a hard one. result is a little buggy, but works. 
 
-30-aug-2022 <br/>
+30-aug-2022 </br>
 Did a test task "currency convertor" with a free API for currency exchange rates. React.js
 
-23-aug-2022 <br/>
-I've started to learn the TypeScript + Tailwind separately. Base app for practicing will be: https://forseti93.github.io/time-manager-app/ <br/>
+23-aug-2022 </br>
+I've started to learn the TypeScript + Tailwind separately. Base app for practicing will be: https://forseti93.github.io/time-manager-app/ </br>
 At the same time I look for a job, because of the test task has the highest priority, this app writing is paused often.
 
 ![image](https://user-images.githubusercontent.com/40038982/189281105-5d055cbd-0799-4601-b61f-231a62af96fb.png)
@@ -40,9 +41,9 @@ Now I'm designing and doing a good, scalable personal site. Stack to practice: T
 ![image](https://user-images.githubusercontent.com/40038982/183278482-c5db966a-3742-42e6-be71-3d7998187ce9.png)
 
 
-App did with React, HTML, SCSS. <br/>
-Contact form: library "emailJS". It works from client side. Mail will come on customer's mail in view as it set in emailJS templates.<br/>
-"Backend": single JS file + folder with projects named as project's id in JS file. Site owner already has added 2 projects. <br/>
+App did with React, HTML, SCSS. </br>
+Contact form: library "emailJS". It works from client side. Mail will come on customer's mail in view as it set in emailJS templates.</br>
+"Backend": single JS file + folder with projects named as project's id in JS file. Site owner already has added 2 projects. </br>
 
 <hr>
 I practiced React, animations:
@@ -74,9 +75,9 @@ https://user-images.githubusercontent.com/40038982/176730266-163179d6-477c-4d9f-
 
 
 <hr>
-<b>Further will be finished sites from JS courses:</b> <br/>
-1) https://beonmax.com/courses/javascript/ <br/>
-2) https://beonmax.com/courses/javascript-advanced/ <br/>
+<b>Further will be finished sites from JS courses:</b> </br>
+1) https://beonmax.com/courses/javascript/ </br>
+2) https://beonmax.com/courses/javascript-advanced/ </br>
 I did only JS + a little HTML and CSS/SCSS for modals pop-ups and similar "floating" JS things. 95% part of HTML and CSS of sites were ready
 
 
