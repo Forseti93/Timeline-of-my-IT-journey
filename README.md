@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/40038982/176730266-163179d6-477c-4d9f-
 
 
 <hr>
-<b>Further will be finished sites from JS courses:</b> </br>
+<b>Below are finished sites from JS courses:</b> </br>
 1) https://beonmax.com/courses/javascript/ </br>
 2) https://beonmax.com/courses/javascript-advanced/ </br>
 I did only JS + a little HTML and CSS/SCSS for modals pop-ups and similar "floating" JS things. 95% part of HTML and CSS of sites were ready
