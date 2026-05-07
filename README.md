@@ -30,13 +30,11 @@ Next.js & WordPress CMS. Headless integration with GraphQL
 
 
 💲 website for architector: https://maxarch123.github.io/mkt-studio/
+Did it with React.js (0 SEO 🤦‍♂️), HTML, SCSS. </br>
+Contact form: library "emailJS".</br>
+"Backend": JSON files to mannage portfolio, colors, texts, images. Site owner already has added 2 projects. </br>
 
 ![image](https://user-images.githubusercontent.com/40038982/183278482-c5db966a-3742-42e6-be71-3d7998187ce9.png)
-
-
-App did with React, HTML, SCSS. </br>
-Contact form: library "emailJS". It works from client side. Mail will come on customer's mail in view as it set in emailJS templates.</br>
-"Backend": single JS file + folder with projects named as project's id in JS file. Site owner already has added 2 projects. </br>
 
 
 🎓 I practiced React.js, animations:
@@ -44,14 +42,8 @@ https://forseti93.github.io/ <br>
 
 ![image](https://user-images.githubusercontent.com/40038982/182370119-12241e44-50b1-4fca-a243-eb5c1d0e2367.png)
 
-Source: https://youtu.be/bmpI252DmiI <br>
-Differences: 
-My version is adaptive, 
-GSAP animation changed on CSS,
-Colors are in separate file for easy editing.
-
 <hr>
-<b>Redux tutorial up to:</b> https://redux.js.org/tutorials/essentials/part-4-using-data (including)<br>
+🎓 <b>Redux tutorial up to:</b> https://redux.js.org/tutorials/essentials/part-4-using-data (including)<br>
 
 https://user-images.githubusercontent.com/40038982/176426808-52e4933e-5103-4ec4-a396-95a875dd2cbe.mp4
 
